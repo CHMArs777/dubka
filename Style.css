@@ -1,0 +1,21 @@
+div {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+div img {
+  width: 400px;
+  height: 300px;
+}
+.картинка {
+  border-radius: 10%;
+}
+.block{padding: 2px;:;
+    width: 300px
+};
+#block-id {
+    background-color: blueviolet;
+}
+.block p {
+    width: 100%;
+    color: brown;
+} 
