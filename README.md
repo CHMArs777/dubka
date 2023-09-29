@@ -1,36 +1,46 @@
-# HTML
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,a initial-scale=1.0">
-    <title >Document</title>
-    <style>
-        img{width: 400px;}
-        div{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-    </style>
-</head>
-<body>
-    <div>
-        <h1 style="color: orange;"> The Best Waifu</h1>
-        <img src="i.webp" alt="">
-        <p>SpeedWagon</p>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,a initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./Style.css" />
+  </head>
+
+  <body>
+    <div><h1>The Best People in The World</h1></div>
+
+    <div class="block">
+      <h2>The Best Waifu</h2>
+      <img class="картинка" src="sped.jpg" alt="" />
+      <p>SpeedWagon</p>
+    </div>
+
+    <div class="block">
+      <h2>And Capybara</h2>
+      <img class="картинка" src="capy.jpg" alt="" />
+      <p>Capybara</p>
     </div>
 
     <div>
-        <h1 style="color: brown;"> And Capybara</h1>
-        <img src="Capybara.webp" alt="">
-        <p>Capybara</p>
+      <h2>党以你为荣+1000社会信用猫妻一碗</h2>
+      <img class="картинка" src="mao.jpg" alt="" />
+      <p>
+        党以你为荣+1000社会信用猫妻一碗饭党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗
+      </p>
     </div>
+
     <div>
-            <h1 style="color: red;">党以你为荣+1000社会信用猫妻一碗</h1>
-            <img src="Мао.webp" alt="">
-        <p style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">党以你为荣+1000社会信用猫妻一碗饭党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗党以你为荣+1000社会信用猫妻一碗</p>
+      <h2>He Didn't die in the end of "Drive"</h2>
+      <img class="картинка" src="rayan.jpg" alt="" />
+      <p>Rayan Gosling</p>
     </div>
-</body>
+
+    <div class="block-hover">
+      <a href="./page1.html">Страница 1</a>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        >Press, if you wanna see them together</a
+      >
+    </div>
+  </body>
 </html>
